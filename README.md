@@ -1,2 +1,2 @@
 # recsys
-recasts for vk
+recsys for vk
