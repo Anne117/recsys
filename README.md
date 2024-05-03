@@ -4,4 +4,4 @@ h1 recsys for vk
 ***
 В файле recsys_vk.ipynb Вы можете найти полностью поэтапное создание рекомендательной системы с подготовкой данные (EDA), выбором признаков, выбором модели, обучением модели, метриками оценивания и формированием ответов на тестовый файл. 
 ***
-В файле predictions.csv лежат ответы, согласно файлу sample_submission.csv. Так как файл слишком большой для гитхаба, скачать его можно c гугл диска по [ссылке](https://drive.google.com/file/d/1QopLTxKaQnKvi9fDkJpWsBLTT-R-IYD9/view?usp=sharing)
+В файле predictions.csv лежат ответы, согласно файлу sample_submission.csv. Так как файл слишком большой для гитхаба, скачать его можно c гугл диска по [ссылке](https://drive.google.com/file/d/1972VlNXgojm3pDLKnbLwJFbU9jz7FyUK/view?usp=sharing)
